@@ -69,12 +69,12 @@ function App() {
   
   <div className='mid-content'>
     <div className='box'>
-      <img src={calculator}></img>
+      <img src={calculator} className="gif"></img>
       <p className='git-description'>A standard calculator created via React.Js</p>
       <a className='Git-link' href="https://github.com/PravdeepK/Calculator">click here to see more</a>
     </div>
     <div className='box'>
-      <img src={lemon}></img>
+      <img src={lemon} className="gif"></img>
       <p className='git-description'>A mock website I created for a fictional restaurant called Little Lemon. It was created with Html and CSS.</p>
       <a className='Git-link' href="https://github.com/PravdeepK/little-lemon-website">click here to see more</a>
     </div>
@@ -82,12 +82,12 @@ function App() {
 
   <div className='mid-content'>
     <div className='box'>
-      <img src={tracker}></img>
+      <img src={tracker} className="gif"></img>
       <p className='git-description'>Using custom hooks, this application can track the coordinates of your mouse on the page.</p>
       <a className='Git-link' href="https://github.com/PravdeepK/mouse-tracker">click here to see more</a>
   </div>
     <div className='box'>
-      <img src={portfolio}></img>
+      <img src={portfolio} className="gif"></img>
       <p className='git-description'>Using React.Js I created a portfolio through a website.</p>
       <a className='Git-link' href="https://github.com/PravdeepK/portfolio">click here to see more</a>
     </div>
