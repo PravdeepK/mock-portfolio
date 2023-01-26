@@ -48,7 +48,9 @@
   font-size: 1.5rem;
   color:floralwhite;
 }
-
+.gif{
+  object-fit: contain;
+}
 .Git-link {
   display: flex;
   text-decoration: none;
